@@ -17,3 +17,14 @@ Link :
 3. LucidChart :
 4. Figma : https://www.figma.com/files/project/14144106/Proyek-2
 5. Github :https://github.com/KharisMm19/TestGit
+
+
+Pelaksana Proyek dan Tugas-tugasnya :
+
+Manager Proyek : Kharis Muhaimin
+Analisis System : Albertha Ratna, Husnul Hotimah 
+Designer : Albertha Ratna, Qorinda Yulfa
+Pemrogram : Agit Ari, Albertha Ratna, Husnul Hotimah, Kharis Muhaimin, Qorinda Yulfa
+Tester : Agit Ari, Albertha Ratna, Husnul Hotimah, Kharis Muhaimin, Qorinda Yulfa
+Anggota lain : -
+
